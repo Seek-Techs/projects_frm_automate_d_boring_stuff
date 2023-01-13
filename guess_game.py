@@ -19,4 +19,4 @@ if guess == secret_number:
     print(f'Good job! You guessed the secret number in {guessTaken} times')
 
 else:
-    print(f'The number I was thinking of is {str(secret_number)}')
+    print(f'The number I was thinking of is {secret_number}')
